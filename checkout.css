@@ -1,0 +1,20 @@
+.fulfillment-badge {
+    display: none !important;
+}
+
+.button-primary {
+    background-color: #f16334 !important;
+    background-image: none !important;
+}
+
+a {
+    color: #289a9c !important;
+}
+
+.dialog-mode #payment_chooser .col.selected {
+    border-bottom-color: #f16334 !important;
+}
+
+#secure_notice {
+    display: none !important;
+}
