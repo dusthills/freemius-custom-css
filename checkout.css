@@ -18,3 +18,7 @@ a {
 #secure_notice {
     display: none !important;
 }
+
+#overlay {
+    background: #102836 !important;
+}
