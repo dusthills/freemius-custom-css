@@ -4,6 +4,9 @@
 
 .mat-raised-button.mat-primary {
     background: #f16334 !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
 }
 
 footer {
@@ -20,4 +23,8 @@ footer {
 
 #login a:active {
     color: #289a9f;
+}
+
+.mat-toolbar.mat-primary {
+    background: #f16334 !important;
 }
