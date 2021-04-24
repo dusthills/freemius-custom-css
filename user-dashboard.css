@@ -1,11 +1,15 @@
-#header {
+#login[_ngcontent-c10] header.md-accent.md-hue-2[_ngcontent-c10] {
     background: #f16334 !important;
 }
 
-.mat-primary {
+button.mat-primary {
     background: #f16334 !important;
 }
 
 footer {
     display: none !important;
+}
+
+a {
+    color: #289a9f;
 }
