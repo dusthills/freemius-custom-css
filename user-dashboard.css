@@ -10,6 +10,14 @@ footer {
     display: none !important;
 }
 
-a {
+#login>#container>#form_container {
+    padding: 0;
+}
+
+#login a {
+    color: #289a9f;
+}
+
+#login a:active {
     color: #289a9f;
 }
