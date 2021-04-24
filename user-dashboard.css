@@ -26,5 +26,9 @@ footer {
 }
 
 .mat-toolbar.mat-primary {
-    background: #f16334 !important;
+    background: #102836 !important;
+}
+
+.mat-sidebar>section>header {
+    background: #102836 !important;
 }
